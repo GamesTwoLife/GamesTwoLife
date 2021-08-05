@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GamesTwoLife
 - 👀 I’m interested in music and movie and programming
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Node JS, TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
