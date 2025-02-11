@@ -14,6 +14,7 @@ I love creating innovative solutions, from **interactive Discord bots** to **ful
 
 ---
 
+<!--
 ## 🚀 Featured Projects
 
 ### 🔹 AristaBot
@@ -31,6 +32,7 @@ I love creating innovative solutions, from **interactive Discord bots** to **ful
 *(More projects available in the repositories section! (nope))*
 
 ---
+-->
 
 ## 🛠 Tech Stack
 
